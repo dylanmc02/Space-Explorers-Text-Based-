@@ -1,3 +1,7 @@
+#If you do not have visual studio, some compatible online python compilers will be linked in the lines following
+#https://www.onlinegdb.com/online_python_compiler
+#https://repl.it/languages/python3
+
 import random
 
 #Variables
