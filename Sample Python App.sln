@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Space Explorers", "Sample Python App\Space Explorers.pyproj", "{57977DD6-2137-4860-81F5-07C1EDDF32DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57977DD6-2137-4860-81F5-07C1EDDF32DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57977DD6-2137-4860-81F5-07C1EDDF32DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B9946A7-37AE-4F78-906E-5AA00C2C29DD}
+	EndGlobalSection
+EndGlobal
